@@ -16,5 +16,5 @@ class Array
   include Flatten
 end
 
-[1, [2, [3, 7, 8]], 4].flatten_me
+# [1, [2, [3, 7, 8]], 4].flatten_me
 
